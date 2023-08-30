@@ -5,7 +5,7 @@
 	          type="javax.sql.DataSource"
 	          driverClassName="com.mysql.cj.jdbc.Driver"
 	          url="jdbc:mysql://localhost:3306/jspdb?serverTimezone=Asia/Seoul"
-	          username="root"
+	          username="c1d2304t4"
 	          password="1234"
 	/>
 </Context>
